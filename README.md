@@ -13,9 +13,7 @@ image after passing through Autoencoder
 
 
 
-close view--
 
-![image](https://user-images.githubusercontent.com/81832778/146981494-492224ac-23c2-4f8e-b592-f776514d6cfb.png)
 
 
 ![4-Figure1-1-528x192](https://user-images.githubusercontent.com/81832778/146986971-a04aefbe-2d03-4617-a5db-118a5cfe474e.png)
